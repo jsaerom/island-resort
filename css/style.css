@@ -2,8 +2,7 @@ body {
   font-family: sans-serif;
   background-color: black;
   color: white;
-  background-image: url("https://newevolutiondesigns.com/images/freebies/tropical-beach-background-14.jpg");
-  background-size: cover;
+  text-align: center;
 }
 h1{
   font-weight: bolder;
@@ -36,8 +35,11 @@ p{
 img{
   height: 400px;
   width: auto;
+  display: block;
+  margin: auto;
 }
 ul{
+  text-align: justify;
   font-size: 15px;
   line-height: 25px;
 }
