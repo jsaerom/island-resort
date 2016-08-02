@@ -1,0 +1,46 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  background-image: url("https://newevolutiondesigns.com/images/freebies/tropical-beach-background-14.jpg");
+  background-size: cover;
+}
+h1{
+  font-weight: bolder;
+  font-size: 40px;
+  text-align: center;
+}
+h2{
+  font-size: 28px;
+  font-style:italic;
+
+}
+h3{
+  font-size: 20px;
+
+}
+h4{
+  font-size: 15px;
+
+}
+h5{
+  font-size: 13px;
+
+}
+h6{
+  font-size: 18px;
+}
+p{
+  font-size: 13px;
+}
+img{
+  height: 400px;
+  width: auto;
+}
+ul{
+  font-size: 15px;
+  line-height: 25px;
+}
+a {
+  color: inherit;
+}
